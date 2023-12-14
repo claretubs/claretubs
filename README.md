@@ -11,8 +11,11 @@
 ---
 
 ### Projects
-**[Analysis on Iris Dataset](https://github.com/claretubs/fundamentals-data-analysis-project.git)**
+1. **[Analysis on Iris Dataset](https://github.com/claretubs/fundamentals-data-analysis-project.git):** <br>
 The purpose of the project was to conduct a comprehensive analysis on the Iris Flower dataset. Each variable within the dataset was systematically classified in the Jupyter Notebook. For numerical variables, appropriate summary statistics such as mean, median, and standard deviation were calculated. Categorical variables were summarized using counts and percentages. Suitable plots for visual representation of these variables were choosen. Some of these plots include histograms, box plots, and scatter plots. The project aims to provide a well-documented and insightful examination of the dataset, highlighting key patterns and characteristics.
+
+2. **[Procedural Shop](https://github.com/claretubs/shop-project.git):** <br>
+The purpose of the project is the implementation of a simple shop simulation. This was done using procedural python, object-oriented python and structs in C. The simulation involves creating a shop, stocking it with products, creating customers with shopping lists, processing transactions, and managing the overall state of the shop and customer interactions. This project demonstrates basic concepts related to managing shop inventory, customer interactions, and transaction processing.
 
 ---
 
