@@ -10,7 +10,7 @@
 
 ---
 
-### Projects
+### ✍ Projects
 1. **[Analysis on Iris Dataset](https://github.com/claretubs/fundamentals-data-analysis-project.git):** <br>
 The purpose of the project was to conduct a comprehensive analysis on the Iris Flower dataset. Each variable within the dataset was systematically classified in the Jupyter Notebook. For numerical variables, appropriate summary statistics such as mean, median, and standard deviation were calculated. Categorical variables were summarized using counts and percentages. Suitable plots for visual representation of these variables were choosen. Some of these plots include histograms, box plots, and scatter plots. The project aims to provide a well-documented and insightful examination of the dataset, highlighting key patterns and characteristics.
 
