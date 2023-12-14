@@ -5,7 +5,7 @@
 ### :woman_technologist: About me:
 - I am a full time student in Computing in Data Analytics in ATU.
 - I have a BCs in Physics and Instrumentation from GMIT.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/clare-tubridy-15185bb9l)
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/clare-tubridy-15185bb9l"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
