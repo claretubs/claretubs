@@ -3,7 +3,7 @@
 ---
 
 ### 👩‍💻 About me
-- I am a full time student in Computing in Data Analytics in ATU.
+- I recently graduated with a First Class Honours degree in my Higher Diploma in Science in Computing in Data Analytics.
 - I have a BCs in Physics and Instrumentation from GMIT.
 - Technically skilled in electronic design, sensor calibration, analytical measurement, and data analysis.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/clare-tubridy99/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
